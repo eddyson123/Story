@@ -1,0 +1,400 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+a {
+    text-decoration: none;
+}
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.first {
+    background-color: white;
+    border-radius: 20px;
+    width: 70%;
+    height: 20px;
+    margin-left: 10px;
+}
+.one {
+    display: flex;
+    justify-content: center;
+    margin-top: 0.3in;
+}
+.second {
+    background-color: red;
+    width: 0%;
+    height: 20px;
+    border-radius: 20px;
+    overflow-y: hidden;
+}
+.num {
+    text-align: center;
+    font-size: x-large;
+    margin-top: 2in;
+    color: white;
+}
+.file {
+    color: white;
+    text-align: center;
+    margin-top: 0.8in;
+}
+.get {
+    display: flex;
+    justify-content: center;
+}
+.btn {
+    color: white;
+    width: 160px;
+    height: 40px;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+    background-color: crimson;
+    margin-top: 6pc;
+}
+.papa {
+    display: flex;
+    justify-content: space-between;
+}
+.subpapa {
+    width: 25%;
+    background-color: rgb(22, 7, 7);
+    height: 100%;
+    position: fixed;
+    height: 100%;
+}
+.superpapa {
+    width: 75%;
+    margin-left: 3.51in;
+}
+.forth {
+    height: 50px;
+    font-size: larger;
+    background: linear-gradient(to right, rgb(34, 34, 126), rgb(33, 172, 219), rgb(37, 37, 132));
+    display: flex;
+    padding-top: 15px;
+    color: white;
+    justify-content: space-between;
+}
+.Busi {
+    margin-left: 12px;
+}
+.train {
+    margin-right: 12px;
+}
+.business {
+    color: aquamarine;
+    margin-top: 30px;
+    font-size: 28px;
+    text-align: center;
+}
+.rin {
+    border-top: 1px solid white;
+    height: 55px;
+    padding-top: 27px;
+    font-size: larger;
+    border-bottom: 1px solid white;
+    padding-left: 15px;
+    color: white;
+}
+.home:hover {
+    color: coral;
+    margin-left: 10px;
+    transition: all 500ms;
+}
+.home {
+    cursor: pointer;
+}
+.ring {
+    height: 55px;
+    padding-top: 27px;
+    font-size: larger;
+    border-bottom: 1px solid white;
+    padding-left: 15px;
+    color: white;
+}
+.span {
+    background-color: red;
+    height: 0.1px;
+    width: 0.1px;
+    border-radius: 50%;
+}
+.dem {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 15px;
+}
+.dimo {
+    font-size: xx-large;
+    color: rgb(186, 133, 186);
+}
+.dim {
+    margin-top: 10px;
+}
+.ink {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.button {
+    height: 40px;
+    font-size: large;
+    width: 180px;
+    border: none;
+    border-radius: 7px;
+    color: white;
+    background-color: rgb(38, 177, 38);
+    cursor: pointer;
+}
+.fit {
+    display: none;
+}
+.comment {
+    background-color: teal;
+    padding-left: 15px;
+    padding-top: 10px;
+}
+.comments {
+    background-color: teal;
+}
+.pg1 {
+    color: white;
+}
+.link > a {
+    color: white;
+    font-size: x-large;
+}
+.links {
+    color: white;
+}
+.links:hover {
+    color: coral;
+}
+.text {
+    height: 100px;
+}
+.btns {
+    height: 40px;
+    font-size: large;
+    width: 150px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 7px;
+    color: white;
+    background-color: crimson;
+    cursor: pointer;
+}
+.lg {
+    font-size: large;
+    color: white;
+}
+.hr {
+    display: none;
+}
+.font {
+    display: none;
+}
+.for {
+    height: 50px;
+    font-size: larger;
+    background: linear-gradient(to right, rgb(34, 34, 126), rgb(33, 172, 219), rgb(37, 37, 132));
+    display: flex;
+    padding-top: 15px;
+    color: white;
+    justify-content: space-between;
+}
+.fu {
+    display: flex;
+    justify-content: center;
+}
+.fun {
+    margin-top: 30px;
+    border: 1px solid grey;
+    padding-left: 20px;
+    padding-top: 20px;
+    font-size: large;
+    height: 50px;
+    width: 94%;
+    cursor: pointer;
+    background-color: rgb(5, 126, 167);
+    color: white;
+    border-radius: 7px;
+    display: flex;
+    justify-content: space-between;
+}
+.f {
+    height: 170px;
+    width: 92%;
+    background-color: rgb(22, 180, 167);
+    color: white;
+    margin-top: 30px;
+    border-radius: 7px;
+    padding-top: 20px;
+}
+.pg2 {
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+}
+.ff {
+    height: 200px;
+    width: 92%;
+    background-color: rgb(22, 180, 167);
+    color: white;
+    margin-top: 30px;
+    border-radius: 7px;
+    padding-top: 20px;
+}
+.kick {
+    display: flex;
+    justify-content: space-evenly;
+}
+.kic {
+    background-color: white;
+    height: 80px;
+    width: 220px;
+    border-radius: 8px;
+}
+.ki {
+    color: black;
+    font-size: larger;
+    margin-top: 10px;
+    font-weight: 500;
+    text-align: center;
+}
+.kill {
+    height: 5px;
+    width: 90%;
+    background-color: rgb(200, 187, 187);
+    border-radius: 7px;
+}
+.kil {
+    background-color: orange;
+    width: 90%;
+    height: 5px;
+    border-radius: 8px;
+}
+.hi {
+    background-color: chocolate;
+    width: 90%;
+    height: 5px;
+    border-radius: 8px;
+}
+.pi {
+    background-color: magenta;
+    width: 90%;
+    height: 5px;
+    border-radius: 8px;
+}
+.bil {
+    background-color: navy;
+    width: 90%;
+    height: 5px;
+    border-radius: 8px;
+}
+.vi {
+    background-color: green;
+    width: 90%;
+    height: 5px;
+    border-radius: 8px;
+}
+.si {
+    background-color: rgb(184, 147, 147);
+    width: 90%;
+    height: 5px;
+    border-radius: 8px;
+}
+.kilc {
+    background-color: white;
+    height: 80px;
+    width: 220px;
+    border-radius: 8px;
+}
+.prod {
+    margin-top: 2in;
+    color: grey;
+    text-align: center;
+    font-size: large;
+}
+.pro {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.bt {
+    background-color: red;
+    font-size: large;
+    width: 170px;
+    color: white;
+    cursor: pointer;
+    border: none;
+    border-radius: 7px;
+    height: 40px;
+}
+
+@media (max-width: 840px) {
+    .superpapa {
+        margin-left: 2.8in;
+        width: 65%;
+    }
+    .subpapa {
+        width: 35%;
+    }
+}
+
+@media (max-width: 430px) {
+    .superpapa {
+        width: 100%;
+        margin-left: 0in;
+    }
+    .business {
+        font-size: 22px;
+    }
+    .train {
+        display: none;
+    }
+    .Busi {
+        font-size: larger;
+    }
+    .dem {
+        margin-top: 0.1in;
+    }
+    .fit {
+        display: block;
+    }
+    .subpapa {
+        width: 0%;
+        overflow-y: hidden;
+        transition: all 1500ms;
+    }
+    .font {
+        background-color: rgb(6, 6, 48);
+        color: white;
+        padding-left: 20px;
+        padding-top: 17px;
+        height: 40px;
+        font-size: large;
+        display: flex;
+        justify-content: space-between;
+    }
+    .for {
+        display: none;
+    }
+    .set {
+        margin-right: 15px;
+    }
+    .fun {
+        width: 89%;
+    }
+    .f {
+        width: 89%;
+        height: 170px;
+    }
+    .kilc {
+        display: none;
+    }
+    .kic {
+        width: 150px;
+    }
+}
